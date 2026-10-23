@@ -12,7 +12,7 @@ Its gradient (`#8FA3BF` to `#3E516B`) is a slate that sets go-sciio apart from
 the violet of go-numerics, the emerald of go-ndarray and go-fft, the blue of
 go-plot, the magenta of go-bignum, the coral of go-sparse, the orange of
 go-approx and the rose of go-dsp; its dark end reads on white at 8.10:1 and its
-light end on a dark page at 7.50:1.
+light end on a dark page at 7.51:1.
 
 ## Formats
 
